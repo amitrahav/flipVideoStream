@@ -3,5 +3,5 @@ opencv-python==4.2.0.34
 python-dotenv==0.13.0
 Flask-SocketIO==4.3.0
 eventlet==0.25.2
-numpy==1.19.0
+numpy==1.22.0
 python-datauri==0.2.8
